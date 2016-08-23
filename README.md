@@ -6,3 +6,6 @@ I decided this time to install git on the windows pc side of my laptop instead o
 
 update from pc -- what the heck is this .md extension?
 
+see comments
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5ldmlsbGUiLCJyb2xlIjoidXNlciIsImlhdCI6MTQ3MTk2NTU3OCwiZXhwIjoxNDczMTc1MTc4fQ.ELwHPQW0WcAzi_B_X2SowcmuSzUcLzuV-Rze37HvIFs"
+
